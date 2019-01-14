@@ -22,3 +22,6 @@ __________________________________
 
 ## É COISA DE MARANHECE, COISA DE BRASILEIRO ;)
 
+http://t.me/rdysoftware
+http://t.me/tomada
+
