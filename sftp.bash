@@ -1,22 +1,22 @@
 #!/bin/bash
 
-if [ $(id -u) -eq 0 ]
-then
-echo ''
-else
-	if echo $(id) |grep sudo > /dev/null
-	then
-	clear
-	echo -e "$white Você nao é usuário root"
-	echo -e "$white Seu usuário está no grupo sudo"
-	echo -e "$white Para tornar-se um usuário root execute $red sudo su$white  ou execute $red sudo $0 $f"
-	exit
-	else
-	clear
-	echo -e "Você não está como usuario root, nem com seus direitos (sudo)\nPara tornar-se um usuário root execute $red su $f e digite sua senha root"
-	exit
-	fi
-fi
+#if [ $(id -u) -eq 0 ]
+#then
+#echo ''
+#else
+#	if echo $(id) |grep sudo > /dev/null
+#	then
+#	clear
+#	echo -e "$white Você nao é usuário root"
+#	echo -e "$white Seu usuário está no grupo sudo"
+#	echo -e "$white Para tornar-se um usuário root execute $red sudo su$white  ou execute $red sudo $0 $f"
+#	exit
+#	else
+#	clear
+#	echo -e "Você não está como usuario root, nem com seus direitos (sudo)\nPara tornar-se um usuário root execute $red su $f e digite sua senha root"
+#	exit
+#	fi
+#fi
 
 # CORES
 white="\033[1;37m";
@@ -31,7 +31,7 @@ mag="\033[1;35m";
 magneta="\033[1;37;45m";
 f="\033[0m";
 
-VERSION="v1.0.0";
+VERSION="v1.0.1";
 ABOUT="SOBRE";
 USERNAME="USUÁRIO";
 SYSTEM="SISTEMA";
