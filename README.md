@@ -1,7 +1,7 @@
 # GERENCIADOR-SSH-SFTP
 SIMPLES GERENCIADOR DE CONEXÕES SSH E SFTP, ESTAVA PRECISANDO DE ALGO LEVE PARA ME AUXILIAR E SALVAR MEUS ENDEREÇOS MAIS RAPIDAMENTE
 
-![alt text](https://raw.githubusercontent.com/RDY8799/GERENCIADOR-SSH-SFTP/master/Captura%20de%20tela%20de%202019-03-23%2007-13-38.png)
+![alt text](https://raw.githubusercontent.com/RDY8799/GERENCIADOR-SSH-SFTP/master/Captura%20de%20tela%20de%202019-03-23%2007-17-56.png)
 __________________________________
 // INSTALAÇÃO:
 
