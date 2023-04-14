@@ -25,8 +25,6 @@ __________________________________
 
 ## RDY SOFTWARE 2019 - TODOS OS DIREITOS RESERVADOS.
 
-## É COISA DE MARANHECE, COISA DE BRASILEIRO ;)
-
 http://t.me/rdysoftware
 http://t.me/tomada
 
